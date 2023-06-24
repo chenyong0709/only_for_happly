@@ -1,9 +1,7 @@
 <div align="center">
 <h1 align="center">自用学习脚本 仅供学习 来了点个★</h1>
 
-<a href="https://github.com/wd210010/only_for_happly/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wd210010/only_for_happly?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
-<a href="https://github.com/wd210010/only_for_happly/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/wd210010/only_for_happly?color=orange&style=flat-square"></a>
-<a href="https://github.com/wd210010/only_for_happly/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/wd210010/only_for_happly?color=red&style=flat-square"></a>
+
 </div>
                                            
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://profile-counter.glitch.me/wd210010/count.svg)
