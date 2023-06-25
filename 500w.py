@@ -2,7 +2,7 @@
 # -- coding: utf-8 --
 # @Time : 2023/05/08 10:23
 # -------------------------------
-# cron "0 0 17 * * *" script-path=xxx.py,tag=匹配cron用
+# cron "0 0 12 * * *" script-path=xxx.py,tag=匹配cron用
 # const $ = new Env('500w');
 
 import requests
