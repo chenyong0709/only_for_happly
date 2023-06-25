@@ -8,7 +8,7 @@
 变量值只需要这二个：htVC_2132_auth和htVC_2132_saltkey
 示列：htVC_2132_saltkey=xxxxxx;htVC_2132_auth=xxxxxxx;
 在Cookie中查找
-定时替则: 30 7 * * *
+定时替则: 0 3 * * *
 new Env('吾爱破解签到');
 """
 import json
